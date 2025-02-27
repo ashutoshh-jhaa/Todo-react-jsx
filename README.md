@@ -12,7 +12,7 @@ A simple Todo App built with React that allows users to add, mark as complete, a
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ashutoshh-jhaa/Todo-react-jsx.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -26,7 +26,7 @@ A simple Todo App built with React that allows users to add, mark as complete, a
 ## Usage
 1. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 2. Open your browser and go to:
    ```
